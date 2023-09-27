@@ -1,0 +1,366 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="921px" height="931px" viewBox="-0.5 -0.5 921 931" content="&lt;mxfile&gt;&lt;diagram id=&quot;Q74txtfL8WMTMJw7WfV6&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="920" height="930" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="20" y="20" width="870" height="810" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="21.5" y="37.5">
+                ATOM Displaty
+            </text>
+        </g>
+        <rect x="160" y="210" width="690" height="610" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="161.5" y="227.5">
+                FPGA
+            </text>
+            <text x="161.5" y="241.5">
+                GW1NR-LV9QN88C6/I5
+            </text>
+        </g>
+        <rect x="630" y="670" width="200" height="60" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="end" font-size="12px">
+            <text x="827.5" y="687.5">
+                SPI Clock
+            </text>
+            <text x="827.5" y="701.5">
+                ~100[MHz]
+            </text>
+        </g>
+        <rect x="320" y="170" width="340" height="170" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="321.5" y="187.5">
+                Video Clock
+            </text>
+            <text x="321.5" y="201.5">
+                74.25[MHz]
+            </text>
+        </g>
+        <rect x="320" y="360" width="460" height="290" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="321.5" y="377.5">
+                Main Clock
+            </text>
+            <text x="321.5" y="391.5">
+                70[MHz]
+            </text>
+        </g>
+        <rect x="320" y="670" width="300" height="140" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="3 3" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+            <text x="321.5" y="687.5">
+                SDRAM Clock
+            </text>
+            <text x="321.5" y="701.5">
+                140[MHz]
+            </text>
+        </g>
+        <path d="M 490 220 L 490 186.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 181.12 L 493.5 188.12 L 490 186.37 L 486.5 188.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="220" width="140" height="60" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="254.5">
+                Video Signal Generator
+            </text>
+        </g>
+        <path d="M 490 410 L 490.07 390 L 490.07 407.47 L 490.05 393.87" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490.05 388.62 L 493.55 395.61 L 490.05 393.87 L 486.55 395.62 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="410" width="140" height="30" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="429.5">
+                Frame Buffer Reader
+            </text>
+        </g>
+        <path d="M 490 120 L 490 96.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 91.12 L 493.5 98.12 L 490 96.37 L 486.5 98.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="120" width="140" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="154.5">
+                HDMI Transceiver IC
+            </text>
+        </g>
+        <path d="M 490 596.37 L 490 623.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 591.12 L 493.5 598.12 L 490 596.37 L 486.5 598.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 490 628.88 L 486.5 621.88 L 490 623.63 L 493.5 621.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 489.89 543.63 L 489.77 536.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 489.98 548.88 L 486.37 541.94 L 489.89 543.63 L 493.36 541.82 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 489.69 531.12 L 493.3 538.06 L 489.77 536.37 L 486.3 538.18 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="550" width="140" height="40" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="567.5">
+                AXI SDRAM
+            </text>
+            <text x="489.5" y="581.5">
+                Controller  Bridge
+            </text>
+        </g>
+        <path d="M 490 696.37 L 490 733.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 691.12 L 493.5 698.12 L 490 696.37 L 486.5 698.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 490 738.88 L 486.5 731.88 L 490 733.63 L 493.5 731.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="420" y="630" width="140" height="60" fill="#647687" stroke="#314354" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="664.5">
+                SDRAM Controller
+            </text>
+        </g>
+        <path d="M 272.5 470 L 272.47 505.07 L 313.63 505.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 318.88 505 L 311.89 508.51 L 313.63 505.01 L 311.88 501.51 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 217.5 470 L 217.53 740 L 313.63 740" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 318.88 740 L 311.88 743.5 L 313.63 740 L 311.88 736.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="190" y="410" width="110" height="60" fill="#647687" stroke="#314354" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="244.5" y="444.5">
+                GOWIN PLL
+            </text>
+        </g>
+        <rect x="420" y="740" width="140" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="774.5">
+                Embedded SDRAM
+            </text>
+        </g>
+        <path d="M 150 255 L 313.63 255" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 318.88 255 L 311.88 258.5 L 313.63 255 L 311.88 251.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="30" y="225" width="120" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="252.5">
+                Crystal
+            </text>
+            <text x="89.5" y="266.5">
+                74.25[MHz]
+            </text>
+        </g>
+        <path d="M 670 560 L 670.07 535.07 L 680.07 535.07 L 680.02 516.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 680 511.12 L 683.52 518.11 L 680.02 516.37 L 676.52 518.13 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 700 560 L 700.07 550 L 750.07 550 L 750.07 470 L 680.07 470 L 680.04 466.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 680.01 461.12 L 683.55 468.09 L 680.04 466.37 L 676.55 468.14 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="640" y="560" width="120" height="40" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="699.5" y="577.5">
+                Command
+            </text>
+            <text x="699.5" y="591.5">
+                Processor
+            </text>
+        </g>
+        <path d="M 490 302.5 L 490 286.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 281.12 L 493.5 288.12 L 490 286.37 L 486.5 288.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="447.5" y="330" width="85" height="30" fill="#60a917" stroke="#2d7600" transform="rotate(-90,490,345)" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px" transform="rotate(-90,490,345)">
+            <text x="489.5" y="349.5">
+                Async FIFO
+            </text>
+        </g>
+        <rect x="492.5" y="600" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="512" y="607.5">
+                SDRC
+            </text>
+            <text x="512" y="621.5">
+                signal
+            </text>
+        </g>
+        <rect x="495" y="700" width="65" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="527" y="712.5">
+                SDRAM
+            </text>
+            <text x="527" y="726.5">
+                commands
+            </text>
+        </g>
+        <rect x="510" y="370" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="529.5" y="377.5">
+                Video
+            </text>
+            <text x="529.5" y="391.5">
+                Data
+            </text>
+        </g>
+        <rect x="500" y="180" width="40" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="519.5" y="192.5">
+                Video
+            </text>
+            <text x="519.5" y="206.5">
+                Signal
+            </text>
+        </g>
+        <rect x="240" y="520" width="60" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="269.5" y="534.5">
+                70[MHz]
+            </text>
+        </g>
+        <rect x="230" y="710" width="80" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="269.5" y="724.5">
+                140[MHz]
+            </text>
+        </g>
+        <rect x="710" y="190" width="100" height="20" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="759.5" y="204.5">
+                Chisel part
+            </text>
+        </g>
+        <rect x="710" y="220" width="100" height="20" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="759.5" y="234.5">
+                Hardware
+            </text>
+        </g>
+        <rect x="710" y="250" width="100" height="25" fill="#647687" stroke="#314354" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="759.5" y="267">
+                GOWIN IP
+            </text>
+        </g>
+        <path d="M 700.07 623.63 L 700.07 610 L 700.07 620 L 700.02 606.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 700.07 628.88 L 696.57 621.88 L 700.07 623.63 L 703.57 621.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 700 601.12 L 703.53 608.11 L 700.02 606.37 L 696.53 608.13 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="640" y="630" width="120" height="60" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="699.5" y="664.5">
+                SPI Slave
+            </text>
+        </g>
+        <rect x="710" y="600" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="739.5" y="612.5">
+                Command
+            </text>
+            <text x="739.5" y="626.5">
+                /Response
+            </text>
+        </g>
+        <path d="M 700 850 L 700 696.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 700 691.12 L 703.5 698.12 L 700 696.37 L 696.5 698.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 770 880 L 860 880 Q 870 880 870 870 L 870 160 Q 870 150 860 150 L 566.37 150" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 561.12 150 L 568.12 146.5 L 566.37 150 L 568.12 153.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="630" y="850" width="140" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="699.5" y="884.5">
+                M5Atom
+            </text>
+        </g>
+        <rect x="700" y="830" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="719.5" y="844.5">
+                SPI
+            </text>
+        </g>
+        <path d="M 90 370 L 90.07 440 L 183.63 440" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 188.88 440 L 181.88 443.5 L 183.63 440 L 181.88 436.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="30" y="310" width="120" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="337.5">
+                Crystal
+            </text>
+            <text x="89.5" y="351.5">
+                50.00[MHz]
+            </text>
+        </g>
+        <rect x="770" y="860" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="789.5" y="874.5">
+                I2C
+            </text>
+        </g>
+        <path d="M 509.62 509.76 L 509.67 445.07 L 613.63 445" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 618.88 445 L 611.88 448.5 L 613.63 445 L 611.88 441.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 740 445 L 770.07 445.07 L 770.07 580 L 766.37 580" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 761.12 580 L 768.12 576.5 L 766.37 580 L 768.12 583.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="620" y="430" width="120" height="30" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="679.5" y="449.5">
+                Stream Reader
+            </text>
+        </g>
+        <path d="M 490 510 L 490 446.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 490 441.12 L 493.5 448.12 L 490 446.37 L 486.5 448.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 400 530 L 420 510 L 560 510 L 580 530 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" transform="rotate(-180,490,520)" pointer-events="all"/>
+        <rect x="440" y="530" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="459.5" y="544.5">
+                AXI4
+            </text>
+        </g>
+        <path d="M 620 495 L 535 495.07 L 535 503.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 535 508.88 L 531.5 501.88 L 535 503.63 L 538.5 501.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="620" y="480" width="120" height="30" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="679.5" y="499.5">
+                Stream Writer
+            </text>
+        </g>
+        <rect x="560" y="480" width="40" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="579.5" y="489.5">
+                AXI4
+            </text>
+        </g>
+        <rect x="560" y="450" width="40" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="579.5" y="459.5">
+                AXI4
+            </text>
+        </g>
+        <rect x="450" y="470" width="40" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="469.5" y="479.5">
+                AXI4
+            </text>
+        </g>
+        <rect x="620" y="520" width="60" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="649.5" y="529.5">
+                Command
+            </text>
+        </g>
+        <rect x="690" y="535" width="60" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="719.5" y="544.5">
+                Command
+            </text>
+        </g>
+        <rect x="740" y="430" width="60" height="10" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="769.5" y="439.5">
+                Pixel Data
+            </text>
+        </g>
+        <rect x="400" y="690" width="80" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="439.5" y="712.5">
+                Up to 280[MB/s]
+            </text>
+            <text x="439.5" y="726.5">
+                theoretical
+            </text>
+        </g>
+        <rect x="700" y="690" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="719.5" y="704.5">
+                SPI
+            </text>
+        </g>
+        <rect x="570" y="130" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="589.5" y="144.5">
+                I2C
+            </text>
+        </g>
+        <rect x="420" y="30" width="140" height="60" fill="#76608a" stroke="#432d57" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="489.5" y="64.5">
+                HDMI Connector
+            </text>
+        </g>
+        <rect x="500" y="90" width="40" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="519.5" y="109.5">
+                TMDS
+            </text>
+        </g>
+    </g>
+</svg>
